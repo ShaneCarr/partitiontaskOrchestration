@@ -28,6 +28,7 @@
   out2=t2(out2)
 
   this is prevented because we use a transactionid to "pick out1"
+  so the end result of each tasks is on transaction not multiple, which is unstable
  */
 package psyncPrototype
 
